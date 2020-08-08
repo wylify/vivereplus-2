@@ -58,34 +58,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Mária Černáková"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "S dôverou a radosťou rozvíjam svoje schopnosti a talent, aby som tak umožnila využívať a rozširovať schopnosti, talent a potenciál druhých ľudí. Motivujem ich, aby mali možnosť rozhodnúť sa pre im fungujúce riešenia, ktoré ich privedú k úspechu. Som pozorovateľkou života, ktorý je pre mňa neustálou inšpiráciou."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://vivereplus.sk"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/maria.cernakova_vivereplus"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://vivereplus.sk"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/maria.cernakova_vivereplus"
 
 defaults:
   # _posts
