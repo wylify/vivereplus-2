@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Kategórie článkov"
 layout: categories
-permalink: /categories/
+permalink: /kategorie/
 author_profile: true
 ---

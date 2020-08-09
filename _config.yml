@@ -17,7 +17,7 @@ title: Blog Vivere Plus
 email: vivereplus@vivereplus.sk
 description: >- # this means to ignore newlines until "baseurl:"
   VIVERE PLUS, s.r.o. je modernou spoločnosťou poskytujúcou lektorské a konzultačné služby v oblasti Soft Skills, pôsobiacou na slovenskom trhu od roku 2008. Jej hlavným cieľom je prostredníctvom komplexného súboru služieb pomáhať, viesť a inšpirovať klientov k životnému štýlu smerujúcemu k spokojnosti a úspechu vo všetkých oblastiach života. Realizácia školení, tréningových programov, workshopov a osobných konzultácií prebieha v Bratislave, alebo na mieste určenom zadávateľom, prípadne v kongresových priestoroch PoľnoSme v Palárikove (www.wellnesspalarikovo.sk).
-minimal_mistakes_skin: default
+minimal_mistakes_skin: mint #default
 search: true
 
 # Build settings
@@ -59,7 +59,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "S dôverou a radosťou rozvíjam svoje schopnosti a talent, aby som tak umožnila využívať a rozširovať schopnosti, talent a potenciál druhých ľudí. Motivujem ich, aby mali možnosť rozhodnúť sa pre im fungujúce riešenia, ktoré ich privedú k úspechu. Som pozorovateľkou života, ktorý je pre mňa neustálou inšpiráciou."
   links:
-    - label: "Website"
+    - label: "Náš Web"
       icon: "fas fa-fw fa-link"
       url: "https://vivereplus.sk"
     - label: "Instagram"
@@ -68,7 +68,7 @@ author:
 
 footer:
   links:
-    - label: "Website"
+    - label: "Náš Web"
       icon: "fas fa-fw fa-link"
       url: "https://vivereplus.sk"
     - label: "Instagram"

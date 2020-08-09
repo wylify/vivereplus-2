@@ -1194,7 +1194,7 @@ sk: &DEFAULT_SK
   more_label                 : "Dozvedieť sa viac"
   related_label              : "Podobné články"
   follow_label               : "Sleduj:"
-  feed_label                 : "Zoznam"
+  feed_label                 : "RSS Zoznam"
   powered_by                 : "Stránka vytvorená pomocou"
   website_label              : "Web stránka"
   email_label                : "Email"
